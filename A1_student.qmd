@@ -3,7 +3,7 @@ title: "Assignment 1 - Basics of Hyperparameter Tuning: Finding the Optimal Span
 subtitle: "MBAN 5560 - Due January 31, 2026 (Saturday) 11:59pm"
 author: "Dr. Aydede"
 date: today
-Name: Angel Denny
+Name: "Angel Denny"
 format: 
   html:
     embed-resources: true
@@ -1478,7 +1478,7 @@ Worth the computational cost: Yes, absolutely. The improvements are substantial:
 46% better than linear regression (13.2 RMSPE reduction)
 
 
-The statistical significance (all p < 0.001) confirms these improvements are real, not due to chance. For most applications, the computational cost of hyperparameter tuning is negligible compared to the gains in prediction accuracy. Sonnet 4.5
+The statistical significance (all p < 0.001) confirms these improvements are real, not due to chance. For most applications, the computational cost of hyperparameter tuning is negligible compared to the gains in prediction accuracy. 
 ---
 
 # Submission Checklist
