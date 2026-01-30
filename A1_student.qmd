@@ -267,8 +267,6 @@ Repeat the grid search with three different seeds (200, 300, 400) to show how th
 ```{r instability-demo}
 # Task B.2: Demonstrate instability
 
-
-
 # Create hyperparameter grid
 grid_span <- seq(from = 0.1, to = 0.9, by = 0.05)
 
